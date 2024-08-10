@@ -22,4 +22,4 @@
 
 - #### The page should be responsive on different screen sizes.
 
-- #### Deploy the solution and submit Repository URL and [Demo URL]().
+- #### Deploy the solution [Demo URL](https://george-antwan-github-profile.vercel.app/).
