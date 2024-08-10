@@ -1,0 +1,10 @@
+:root {
+ padding: 0;
+ margin: 0;
+}
+body {
+  background-image: url(./assets/images/hero-image-github-profile.png);
+  background-repeat: no-repeat;
+  background-size:  100vw 25vh ;
+  background-color: #20293A;
+}
